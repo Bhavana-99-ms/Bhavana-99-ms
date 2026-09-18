@@ -81,7 +81,7 @@ to build useful and scalable applications.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: **ADD YOUR LINKEDIN URL**
+- 💼 LinkedIn: linkedin.com/in/b-ms6996
 - 🐙 GitHub: [Bhavana-99-ms](https://github.com/Bhavana-99-ms)
 
 ---
