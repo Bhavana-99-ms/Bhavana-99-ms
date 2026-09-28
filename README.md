@@ -1,89 +1,130 @@
-# Hi, I'm Bhavana 👋
+# Hi, I'm Bhavana Mohandas Sangalad 👋
 
-### Aspiring Software Engineer | AI/ML & Backend Developer
+### Aspiring Software Engineer | AI/ML | Generative AI | Python | Java | SQL
 
-Computer Science student focused on building practical software applications
-using Python, Java, Machine Learning, Generative AI, and backend technologies.
+I’m a Computer Science Engineering student focused on building practical software solutions using **Python, Java, Machine Learning, Generative AI, and backend technologies**.
 
-I enjoy solving problems, developing real-world projects, and continuously
-improving my skills in software engineering and AI.
+I enjoy turning real-world problems into working applications and continuously improving my skills in **DSA, software development, databases, AI/ML, and cloud technologies**.
 
 ---
 
-## 💻 Technical Skills
+## 🚀 What I Build
 
-**Programming:** Python, Java, SQL
-
-**AI / Machine Learning:** Machine Learning, NLP, Generative AI, RAG
-
-**Web & Backend:** React, Node.js, REST APIs
-
-**Databases:** MySQL, MongoDB
-
-**Tools:** Git, GitHub, VS Code
-
-**DevOps & Cloud:** Docker, AWS
+- 🤖 Machine Learning applications
+- 🧠 Generative AI & RAG applications
+- 💻 Backend applications with Java & Spring Boot
+- 📊 Data-driven applications
+- 🔐 Intelligent security & fraud detection solutions
+- 🌐 Full-stack and API-based applications
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-### 🔥 Forest Fire Detection
-Computer vision and machine learning application focused on detecting
-fire and smoke and supporting early fire-risk monitoring.
+### Languages
+`Python` `Java` `SQL` `JavaScript`
 
-**Tech:** Python • Machine Learning • OpenCV
+### AI / Machine Learning
+`Machine Learning` `NLP` `Scikit-learn` `Pandas` `NumPy` `OpenCV`
+
+### Generative AI
+`RAG` `LangChain` `LLMs` `Vector Databases`
+
+### Backend & Web
+`Spring Boot` `REST APIs` `Node.js` `React`
+
+### Databases
+`MySQL` `MongoDB`
+
+### Tools & Cloud
+`Git` `GitHub` `Docker` `AWS` `VS Code`
+
+---
+
+## ⭐ Featured Projects
 
 ### 🛡️ FraudShield AI
-Fraud and anomaly detection application combining rule-based analysis,
-Benford's Law analysis, and machine learning techniques.
+**Machine Learning | Fraud Detection | Anomaly Detection**
 
-**Tech:** Python • Machine Learning • Anomaly Detection
+An ML-based fraud detection application designed to identify unusual transaction patterns using anomaly detection techniques.
 
-### 📄 Resume AI
-AI-oriented application for analyzing resumes and identifying relevant
-skills and improvement areas.
-
-**Tech:** React • Node.js • JavaScript • PDF Processing
-
-### 🏥 Medical RAG Explainer
-Retrieval-Augmented Generation application designed to retrieve relevant
-information from medical documents and generate contextual explanations.
-
-**Tech:** Python • RAG • NLP • LLM
-
-### 🔗 Medical Records on Blockchain
-Blockchain-based application concept for secure medical record management
-and controlled access to patient information.
-
-**Tech:** Solidity • React • Hardhat • Blockchain
+🔗 [View Repository](https://github.com/Bhavana-99-ms/FraudShield-AI)
 
 ---
 
-## 📚 Currently Learning
+### 🔥 Forest Fire Detection
+**Python | Machine Learning | OpenCV | Computer Vision**
+
+A computer vision and machine learning application for detecting forest fire and smoke conditions from images/video.
+
+🔗 [View Repository](https://github.com/Bhavana-99-ms/forest-fire-detection)
+
+---
+
+### 🧠 Medical RAG Explainer
+**Python | RAG | Generative AI**
+
+A retrieval-augmented application designed to retrieve relevant information from a knowledge base and generate context-grounded responses.
+
+🔗 [View Repository](https://github.com/Bhavana-99-ms/medical-rag-explainer)
+
+---
+
+### 📄 PDF-QA RAG App
+**Python | LangChain | Streamlit | RAG**
+
+A document question-answering application that allows users to upload PDF documents and ask questions using a retrieval-augmented generation pipeline.
+
+🔗 [View Repository](https://github.com/Bhavana-99-ms/pdf-qa-rag-app)
+
+---
+
+### ✈️ Travel Companion
+**Java | Spring Boot | MySQL | REST API**
+
+A backend-oriented travel application built using Java and Spring Boot with database integration and API-based functionality.
+
+🔗 [View Repository](https://github.com/Bhavana-99-ms/travel-companion)
+
+---
+
+### 📧 AI-Based Spam Email Detector
+**Python | Machine Learning | NLP**
+
+A machine learning application for classifying email messages as spam or legitimate using natural language processing techniques.
+
+🔗 [View Repository](https://github.com/Bhavana-99-ms/AI-Based-Spam-Email-Detector)
+
+---
+
+## 📚 Currently Strengthening
 
 - Data Structures & Algorithms
+- Java & Python
+- Advanced SQL
 - Backend Development
-- System Design
-- Generative AI
-- Retrieval-Augmented Generation
-- Cloud & DevOps
+- Machine Learning
+- Generative AI & RAG
+- Docker
+- AWS
+- System Design Fundamentals
 
 ---
 
 ## 🎯 Career Focus
 
-Interested in Software Engineering, Backend Development, and AI/ML
-opportunities where I can apply problem-solving and programming skills
-to build useful and scalable applications.
+I'm currently preparing for **Software Engineer / AI-ML Engineer / Backend Developer** opportunities where I can apply my technical skills, solve real-world problems, and continue learning from experienced engineering teams.
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: linkedin.com/in/b-ms6996
-- 🐙 GitHub: [Bhavana-99-ms](https://github.com/Bhavana-99-ms)
+**GitHub:**  
+https://github.com/Bhavana-99-ms
+
+**LinkedIn:**  
+https://www.linkedin.com/in/b-ms6996/
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ *Building projects. Solving problems. Learning continuously.*
